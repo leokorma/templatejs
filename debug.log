@@ -1,0 +1,6 @@
+{"level":"info","message":"Express server listening on port 3000","timestamp":"2013-12-04T10:34:29.902Z"}
+{"level":"info","message":"Express server listening on port 3000","timestamp":"2013-12-04T10:38:31.907Z"}
+{"level":"debug","message":"127.0.0.1 - - [Wed, 04 Dec 2013 10:38:38 GMT] \"GET / HTTP/1.1\" 200 170 \"-\" \"Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36\"\n","timestamp":"2013-12-04T10:38:38.781Z"}
+{"level":"debug","message":"127.0.0.1 - - [Wed, 04 Dec 2013 10:38:38 GMT] \"GET / HTTP/1.1\" 200 170 \"-\" \"Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36\"\n","timestamp":"2013-12-04T10:38:38.801Z"}
+{"level":"debug","message":"127.0.0.1 - - [Wed, 04 Dec 2013 10:38:38 GMT] \"GET / HTTP/1.1\" 200 170 \"-\" \"Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36\"\n","timestamp":"2013-12-04T10:38:38.878Z"}
+{"level":"debug","message":"127.0.0.1 - - [Wed, 04 Dec 2013 10:38:38 GMT] \"GET /stylesheets/style.css HTTP/1.1\" 200 117 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36\"\n","timestamp":"2013-12-04T10:38:38.900Z"}
